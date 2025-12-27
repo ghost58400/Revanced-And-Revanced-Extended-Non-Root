@@ -39,13 +39,82 @@ Download
 > 
 ---
 
+<details>
+  <summary><h2>Jump list apps</h2></summary>
+
+#### [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](?tab=readme-ov-file#youtube)
+
+#### [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](?tab=readme-ov-file#youtube-music)
+
+#### [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](?tab=readme-ov-file#facebook)
+
+#### [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](?tab=readme-ov-file#messenge)
+
+#### [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](?tab=readme-ov-file#twitter)
+
+#### [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](?tab=readme-ov-file#instagram)
+
+#### [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](?tab=readme-ov-file#threads)
+
+#### [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](?tab=readme-ov-file#tiktok)
+
+#### [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](?tab=readme-ov-file#twitch)
+
+#### [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](?tab=readme-ov-file#reddit)
+
+#### [![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)](?tab=readme-ov-file#lightroom)
+
+#### [![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white)](?tab=readme-ov-file#tumblr)
+
+#### [![SoundCloud](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](?tab=readme-ov-file#soundcloud)
+
+#### [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](?tab=readme-ov-file#duolingo)
+
+#### [![Prime Video](https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white)](?tab=readme-ov-file#prime-video)
+
+#### [![Disney](https://img.shields.io/badge/Disney-%23006E99.svg?style=for-the-badge&logo=disney&logoColor=white)](?tab=readme-ov-file#disney)
+
+#### [![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)](?tab=readme-ov-file#crunchyroll)
+
+#### [![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](?tab=readme-ov-file#viber)
+
+#### [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](?tab=readme-ov-file#proton-mail)
+
+#### [Google Photos](?tab=readme-ov-file#google-photos-1)
+
+#### [Proton VPN](?tab=readme-ov-file#proton-vpn-1)
+
+#### [Spotjfy](?tab=readme-ov-file#spotjfy-1)
+
+#### [Google News](?tab=readme-ov-file#google-news-1)
+
+#### [Photomath](?tab=readme-ov-file#photomath-1)
+
+#### [RAR](?tab=readme-ov-file#rar-1)
+
+#### [Strava](?tab=readme-ov-file#strava-1)
+
+#### [Pixiv](?tab=readme-ov-file#pixiv-1)
+
+#### [Bilbili](?tab=readme-ov-file#bilbili-1)
+
+#### [Solid Explorer File Manager](?tab=readme-ov-file#solid-explorer-file-manager-1)
+
+#### [Nova Launcher](?tab=readme-ov-file#nova-launcher-1)
+
+#### [Tasker](?tab=readme-ov-file#tasker-1)
+
+#### [FX File Explorer](?tab=readme-ov-file#fx-file-explorer-1)
+
+</details>
+
 ## [MicroG ReVanced:](https://github.com/ReVanced/GmsCore)
 
 [![Release](https://img.shields.io/github/v/release/ReVanced/GmsCore?label=All-arch&style=for-the-badge)](https://github.com/ReVanced/GmsCore/releases) 
 
 ---
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://play.google.com/store/apps/details?id=com.google.android.youtube)
+### [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -66,6 +135,29 @@ Download
 | ----------------------------------------------------------------------------------  | ------------------------------------------------------------------------------------- |
 | [Arm64-v8a](../../releases/download/all/youtube-lite-arm64-v8a-revanced.apk)        | [Arm64-v8a](../../releases/download/all/youtube-lite-beta-arm64-v8a-revanced.apk)     |
 | [Armeabi-v7a](../../releases/download/all/youtube-lite-armeabi-v7a-revanced.apk)    | [Armeabi-v7a](../../releases/download/all/youtube-lite-beta-armeabi-v7a-revanced.apk) |
+
+</details>
+
+### [LisoUseInAIKyrios Patch (Revanced fork):](https://github.com/LisoUseInAIKyrios/revanced-patches)
+
+[All Architectures](../../releases/download/all/youtube-revanced-LisoUseInAIKyrios.apk)
+
+[Arm64-v8a](../../releases/download/all/youtube-arm64-v8a-revanced-LisoUseInAIKyrios.apk)
+
+[Armeabi-v7a](../../releases/download/all/youtube-armeabi-v7a-revanced-LisoUseInAIKyrios.apk)
+
+[x86](../../releases/download/all/youtube-x86-revanced-LisoUseInAIKyrios.apk)
+
+[x86_64](../../releases/download/all/youtube-x86_64-revanced-LisoUseInAIKyrios.apk)
+
+<details>
+  <summary>Lite version</summary>
+
+**A lite version is a version with unnecessary things removed. For example, it might only have an English interface and remove unused screen DPI from split APKs**
+
+[Arm64-v8a](../../releases/download/all/youtube-lite-arm64-v8a-revanced-LisoUseInAIKyrios.apk)
+
+[Armeabi-v7a](../../releases/download/all/youtube-lite-armeabi-v7a-revanced-LisoUseInAIKyrios.apk)
 
 </details>
 
@@ -142,7 +234,7 @@ Download
 
 ---
 
-[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
+### [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -152,6 +244,16 @@ Download
 | [Armeabi-v7a](../../releases/download/all/youtube-music-armeabi-v7a-revanced.apk) | [Armeabi-v7a](../../releases/download/all/youtube-music-beta-armeabi-v7a-revanced.apk) |
 | [x86](../../releases/download/all/youtube-music-x86-revanced.apk)                 | [x86](../../releases/download/all/youtube-music-beta-x86-revanced.apk)                 |
 | [x86_64](../../releases/download/all/youtube-music-x86_64-revanced.apk)           | [x86_64](../../releases/download/all/youtube-music-beta-x86_64-revanced.apk)           |
+
+### [LisoUseInAIKyrios Patch (Revanced fork):](https://github.com/LisoUseInAIKyrios/revanced-patches)
+
+[Arm64-v8a](../../releases/download/all/youtube-music-arm64-v8a-revanced-LisoUseInAIKyrios.apk)
+
+[Armeabi-v7a](../../releases/download/all/youtube-music-armeabi-v7a-revanced-LisoUseInAIKyrios.apk)
+
+[x86](../../releases/download/all/youtube-music-x86-revanced-LisoUseInAIKyrios.apk)
+
+[x86_64](../../releases/download/all/youtube-music-x86_64-revanced-LisoUseInAIKyrios.apk)
 
 ### [Revanced Extended:](https://github.com/inotia00/revanced-patches/)
 
@@ -173,7 +275,7 @@ Download
 
 ---
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://play.google.com/store/apps/details?id=com.facebook.katana&hl)
+### [Facebook:](https://play.google.com/store/apps/details?id=com.facebook.katana&hl)
 
 **You have to remove the Messenger app before you install the Facebook ReVanced**
 
@@ -185,7 +287,7 @@ Download
 
 ---
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://play.google.com/store/apps/details?id=com.twitter.android)
+### [Twitter:](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 ### [Piko:](https://github.com/crimera/piko)
 
@@ -198,7 +300,7 @@ Download
 
 ---
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://play.google.com/store/apps/details?id=com.instagram.android)
+### [Instagram:](https://play.google.com/store/apps/details?id=com.instagram.android)
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -212,7 +314,7 @@ Download
 
 ---
 
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://play.google.com/store/apps/details?id=com.instagram.barcelona)
+### [Threads:](https://play.google.com/store/apps/details?id=com.instagram.barcelona)
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -235,7 +337,7 @@ Download
 
 ---
 
-[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://play.google.com/store/apps/details?id=com.facebook.orca)
+### [Messenger:](https://play.google.com/store/apps/details?id=com.facebook.orca)
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -260,21 +362,7 @@ Download
 
 ---
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://play.google.com/store/apps/details?id=org.telegram.messenger)
-
-### [Revanced Experiments:](https://github.com/Aunali321/ReVancedExperiments)
-
-CH play version:
-
-[Arm64-v8a](../../releases/download/all/telegram-revanced-experiments.apk)
-
-Web version:
-
-[All Architectures](../../releases/download/all/telegram-web-version-revanced-experiments.apk) 
-
----
-
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
+### [TikTok:](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -284,7 +372,7 @@ Web version:
 
 ---
 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
+### [Twitch:](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -295,14 +383,21 @@ Web version:
 
 ---
 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
+### [Reddit:](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
+
+### [Revanced:](https://github.com/ReVanced/revanced-patches)
+
+| Stable version                                                         | Beta version                                                                |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------- | 
+| [All Architectures](../../releases/download/all/reddit-revanced.apk)   | [All Architectures](../../releases/download/all/reddit-beta-revanced.apk)   |
+| [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-revanced.apk) | [Arm64-v8a](../../releases/download/all/reddit-beta-arm64-v8a-revanced.apk) |
 
 ### [Revanced Extended:](https://github.com/inotia00/revanced-patches/)
 
-| Stable version                                                                  | Beta version                                                                         |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | 
-| [All Architectures](../../releases/download/all/reddit-revanced-extended.apk)   | [All Architectures](../../releases/download/all/reddit-beta-revanced-extended.apk)   |
-| [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-revanced-extended.apk) | [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-beta-revanced-extended.apk) |
+| Stable version                                                                  | Beta version                                                                              |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | 
+| [All Architectures](../../releases/download/all/reddit-revanced-extended.apk)   | [All Architectures](../../releases/download/all/reddit-beta-revanced-extended.apk)        |
+| [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-revanced-extended.apk) | [Arm64-v8a](../../releases/download/all/reddit-beta-arm64-v8a-beta-revanced-extended.apk) |
 
 ### [Revanced Extended Arsclib:](https://github.com/inotia00/revanced-patches-arsclib/)
 
@@ -312,7 +407,7 @@ Web version:
 
 ---
 
-[![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)](https://play.google.com/store/apps/details?id=com.adobe.lrmobile)
+### [Lightroom:](https://play.google.com/store/apps/details?id=com.adobe.lrmobile)
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -322,7 +417,7 @@ Web version:
 
 ---
 
-[![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white)](https://play.google.com/store/apps/details?id=com.tumblr)
+### [Tumblr:](https://play.google.com/store/apps/details?id=com.tumblr)
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -333,7 +428,7 @@ Web version:
 
 ---
 
-[![SoundCloud](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://play.google.com/store/apps/details?id=com.soundcloud.android)
+### [SoundCloud:](https://play.google.com/store/apps/details?id=com.soundcloud.android)
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -344,7 +439,7 @@ Web version:
 
 ---
 
-[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://play.google.com/store/apps/details?id=com.duolingo)
+### [Duolingo:](https://play.google.com/store/apps/details?id=com.duolingo)
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -371,6 +466,16 @@ Web version:
 | Stable version                                                             | Beta version                                                                    |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | [All Architectures](../../releases/download/all/photomath-revanced.apk)    | [All Architectures](../../releases/download/all/photomath-beta-revanced.apk)    |
+
+---
+
+### [Proton VPN:](https://f-droid.org/en/packages/ch.protonvpn.android/)
+
+### [Revanced:](https://github.com/revanced/revanced-patches)
+
+| Stable version                                                          | Beta version                                                                 |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [All Architectures](../../releases/download/all/protonvpn-revanced.apk) | [All Architectures](../../releases/download/all/protonvpn-beta-revanced.apk) |
 
 ---
 
@@ -424,7 +529,7 @@ Web version:
 
 ---
 
-### [![Prime Video](https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white)](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient)
+### [Prime Video:](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient)
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -434,7 +539,17 @@ Web version:
 
 ---
 
-### [![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](https://play.google.com/store/apps/details?id=com.viber.voip)
+### [Disney+:](https://play.google.com/store/apps/details?id=com.disney.disneyplus)
+
+### [Revanced:](https://github.com/revanced/revanced-patches)
+
+| Stable version                                               | Beta version                                                      |
+| ------------------------------------------------------------ | ----------------------------------------------------------------- | 
+| [Arm64-v8a](../../releases/download/all/disney-revanced.apk) | [Arm64-v8a](../../releases/download/all/disney-beta-revanced.apk) |
+
+---
+
+### [Viber:](https://play.google.com/store/apps/details?id=com.viber.voip)
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -444,7 +559,7 @@ Web version:
 
 ---
 
-[![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)
+### [Crunchyroll:](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -454,7 +569,7 @@ Web version:
 
 ---
 
-### [Solid Explorer File Manager](https://play.google.com/store/apps/details?id=pl.solidexplorer2)
+### [Solid Explorer File Manager:](https://play.google.com/store/apps/details?id=pl.solidexplorer2)
 
 ### [scrazzz](https://github.com/scrazzz/my-revanced-patches)
 
@@ -540,6 +655,15 @@ Cloned version has a different package name than the original app, so you can in
 [Integrations](https://github.com/anddea/revanced-integrations) - [GPL-3.0](https://github.com/anddea/revanced-integrations/blob/main/LICENSE)
 
 </details>
+
+</details>
+
+<details>
+  <summary>LisoUseInAIKyrios</summary>
+
+[Patches](https://github.com/LisoUseInAIKyrios/revanced-patches) - [GPL-3.0](https://github.com/LisoUseInAIKyrios/revanced-patches/blob/main/LICENSE)
+
+[CLI](https://github.com/LisoUseInAIKyrios/revanced-cli) - [GPL-3.0](https://github.com/LisoUseInAIKyrios/revanced-cli/blob/main/LICENSE)
 
 </details>
 

@@ -19,6 +19,7 @@ on:
           - 'Revanced Extended'
           - 'Revanced Extended Beta'
           - 'Revanced Extended Arsclib'
+          - 'Revanced LisoUseInAIKyrios'
           - 'RVE-anddea-stable'
           - 'RVE-anddea-beta'
           - 'Twitter Piko Stable'
@@ -40,8 +41,9 @@ jobs:
     if: ${{ github.event.inputs.org == 'Revanced' || inputs.org == 'Revanced' }}
     runs-on: ubuntu-latest
     strategy:
+      fail-fast: false
       matrix:
-        run: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+        run: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
     steps:
       - name: Checkout
         uses: actions/checkout@v4.2.2
@@ -63,8 +65,9 @@ jobs:
     if: ${{ github.event.inputs.org == 'Revanced Beta' || inputs.org == 'Revanced Beta' }}
     runs-on: ubuntu-latest
     strategy:
+      fail-fast: false
       matrix:
-        run: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+        run: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
     steps:
       - name: Checkout
         uses: actions/checkout@v4.2.2
@@ -80,6 +83,29 @@ jobs:
       - name: Releasing APK files
         id: release-rvb
         if: steps.check-gh-rvb.outputs.internet_error == '0'
+        uses: ./.github/actions/release
+  patch_rv_liso:
+    name: Patch Revanced LisoUseInAIKyrios
+    if: ${{ github.event.inputs.org == 'Revanced LisoUseInAIKyrios' || inputs.org == 'Revanced LisoUseInAIKyrios' }}
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        run: [1, 2, 3]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.2.2
+      - name: Preparing to patch
+        uses: ./.github/actions/preparing
+      - name: Check github connection
+        id: check-gh-rv-liso
+        run: bash src/etc/connection.sh
+      - name: Patch apk
+        id: patch-rv-liso
+        if: steps.check-gh-rv-liso.outputs.internet_error == '0'
+        run: bash src/build/LisoUseInAIKyrios.sh ${{ matrix.run }}
+      - name: Releasing APK files
+        id: release-rv-liso
+        if: steps.check-gh-rv-liso.outputs.internet_error == '0'
         uses: ./.github/actions/release
   patch_rve_anddea_stable:
     name: Patch RVX Anddea Stable
